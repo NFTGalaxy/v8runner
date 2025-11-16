@@ -8,8 +8,8 @@ import (
 	"sync"
 	"testing"
 
+	"github.com/NFTGalaxy/v8runner/pkg/types"
 	"github.com/stretchr/testify/suite"
-	"github.com/stumble/v8runner/pkg/types"
 )
 
 type ReaderRunnerTestSuite struct {
