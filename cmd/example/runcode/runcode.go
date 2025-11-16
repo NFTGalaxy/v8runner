@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/stumble/v8runner/pkg/procrunner"
+	"github.com/NFTGalaxy/v8runner/pkg/procrunner"
 )
 
 func main() {

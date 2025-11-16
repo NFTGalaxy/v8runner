@@ -7,7 +7,7 @@ import (
 	"net/http"
 	_ "net/http/pprof" //nolint: gosec
 
-	"github.com/stumble/v8runner/pkg/procrunner"
+	"github.com/NFTGalaxy/v8runner/pkg/procrunner"
 )
 
 func runApplyInt64() {

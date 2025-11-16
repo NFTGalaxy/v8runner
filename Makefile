@@ -1,6 +1,6 @@
 CGO_ENABLED = 1
 COMMIT_HASH := $(shell git --no-pager describe --tags --always --dirty)
-LDFLAGS = "-X github.com/stumble/v8runner/internal/info.Version=$(COMMIT_HASH)"
+LDFLAGS = "-X github.com/NFTGalaxy/v8runner/internal/info.Version=$(COMMIT_HASH)"
 
 .PHONY: build install-v8runner test vet fmt
 

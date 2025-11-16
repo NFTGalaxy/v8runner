@@ -1,4 +1,4 @@
-module github.com/stumble/v8runner
+module github.com/NFTGalaxy/v8runner
 
 go 1.24
 
