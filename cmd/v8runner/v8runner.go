@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/stumble/v8runner/internal/info"
-	"github.com/stumble/v8runner/pkg/runner"
+	"github.com/NFTGalaxy/v8runner/internal/info"
+	"github.com/NFTGalaxy/v8runner/pkg/runner"
 )
 
 var (

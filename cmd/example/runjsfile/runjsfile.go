@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/stumble/v8runner/pkg/procrunner"
+	"github.com/NFTGalaxy/v8runner/pkg/procrunner"
 )
 
 // readFileToString reads the contents of the file specified by filename

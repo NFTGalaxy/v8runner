@@ -10,7 +10,7 @@ import (
 
 // ProcRunnerTestSuite is the test suite for ProcRunner.
 // YOU MUST install the most recent v8runner binary before running this test.
-// go install github.com/stumble/v8runner/cmd/v8runner
+// go install github.com/NFTGalaxy/v8runner/cmd/v8runner
 type ProcRunnerTestSuite struct {
 	suite.Suite
 }

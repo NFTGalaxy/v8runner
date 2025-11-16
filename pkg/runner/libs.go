@@ -1,8 +1,8 @@
 package runner
 
 import (
+	"github.com/NFTGalaxy/v8runner/pkg/types"
 	v8 "github.com/stumble/v8go"
-	"github.com/stumble/v8runner/pkg/types"
 )
 
 func errResult(id string, err error) types.RunCodeResponse {

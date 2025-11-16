@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/stumble/v8runner/pkg/types"
+	"github.com/NFTGalaxy/v8runner/pkg/types"
 )
 
 type ReaderRunner struct {
